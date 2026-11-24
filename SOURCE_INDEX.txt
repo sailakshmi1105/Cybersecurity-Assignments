@@ -1,0 +1,11 @@
+All C++17 source files are in solutions/.
+solutions/01_password_panel_flipping.cpp
+solutions/02_interactive_bitwise_operations.cpp
+solutions/03_restore_string_from_trigrams.cpp
+solutions/04_metropolis_network_xor.cpp
+solutions/05_spy_syndrome_decoding.cpp
+solutions/06_sherlock_adjacent_operations.cpp
+solutions/07_xenons_attack_on_the_gangs.cpp
+solutions/08_dynamic_bipartite_graph.cpp
+solutions/09_virus_contacts_rollback_dsu.cpp
+solutions/10_interactive_hash_collision.cpp
